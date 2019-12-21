@@ -1,6 +1,6 @@
 {
-  "id": "java",
-  "name": "Java",
+  "id": "golang",
+  "name": "Go",
   "schema": {
     "java.gen": {
       "text": "Java Code Generation",
